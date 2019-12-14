@@ -211,3 +211,9 @@ footer nav a {
 .middle-content .boxes .box:nth-child(10){
     background-color: dodgerblue;
 }
+
+.jumboAboutImg{
+    width: 100%;
+    height: auto;
+    margin: 2% 0% 2% 0%;
+}
