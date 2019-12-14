@@ -144,3 +144,29 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.topBar{
+    margin: 2% 3% 2% 2.5%;
+}
+
+.navItems{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navBarLink{
+    text-decoration: none;
+    color: black;
+}
+
+.navBarLink:hover{
+    text-decoration: none;
+    color: grey;
+}
+
+.jumboImg{
+    width: 100%;
+    height: auto;
+    margin: 2% 0% 2% 0%;
+}
