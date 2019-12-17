@@ -144,3 +144,166 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.topBar{
+    margin: 2% 3% 3% 2.5%;
+}
+
+.navItems{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navBarLink{
+    text-decoration: none;
+    color: black;
+}
+
+.navBarLink:hover{
+    text-decoration: none;
+    color: grey;
+}
+
+.jumboImg{
+    width: 100%;
+    height: auto;
+    margin: 2% 0% 2% 0%;
+}
+
+.middle-content .boxes .box:nth-child(1){
+    background-color: teal;
+}
+
+
+.middle-content .boxes .box:nth-child(2){
+    background-color: gold;
+}
+
+.middle-content .boxes .box:nth-child(3){
+    background-color: cadetblue;
+}
+
+.middle-content .boxes .box:nth-child(4){
+    background-color: coral;
+}
+
+.middle-content .boxes .box:nth-child(5){
+    background-color: crimson;
+}
+
+.middle-content .boxes .box:nth-child(6){
+    background-color: forestgreen;
+}
+
+.middle-content .boxes .box:nth-child(7){
+    background-color: darkorchid;
+}
+
+.middle-content .boxes .box:nth-child(8){
+    background-color: hotpink;
+}
+
+.middle-content .boxes .box:nth-child(9){
+    background-color: indigo
+}
+
+.middle-content .boxes .box:nth-child(10){
+    background-color: dodgerblue;
+}
+
+.jumboAboutImg{
+    width: 100%;
+    height: auto;
+    margin: 2% 0% 2% 0%;
+}
+
+.about-page{
+    width: 100%;
+    height: auto;
+    margin: 1% 3% 2% 3%;
+    
+}
+
+.secondSection{
+    margin: 0% 3% 5% 3 3%;
+}
+
+hr{
+    
+    width: 95%;
+    border: 1px dashed;
+}
+
+.aboutCopy{
+    width:  90%;
+    line-height: 24px;
+}
+
+h3 {
+    margin: 1% 0% 2% 0%;
+}
+
+.copy{
+    margin: 1% 3% 2% 3%;
+    max-width: 300px;
+    line-height: 24px;
+}
+
+.learnMore{
+    margin: 3% 3% 2% 0%;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    max-width: 110px;
+}
+.lmText{
+    color: grey;
+    padding-left: 2px;
+}
+
+.learnMore:hover{
+    margin: 3% 3% 2% 0%;
+    box-sizing: border-box;
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.lmText:hover{
+    color: red;
+}
+
+.boxSection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-basis: calc(10% - 30px);
+    width: 95%;
+    margin-top: 5%;
+}
+
+.aboutBoxes{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    justify-content: left;
+    margin: 5% 0% 5% 0 0%;
+}
+
+.aboutImgTwo{
+    max-width: 400px;
+}
+
+
+.workTogether{
+    width: 100%;
+    height: auto;
+    margin: 1% 3% 2% 3%;
+}
